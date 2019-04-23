@@ -4,7 +4,7 @@ Listing country alpha2, alpha3, numeric and isd codes with continent names and c
 
 ## Usage
 
-###Listing
+### Listing
 
 Collect all countries
 
@@ -76,7 +76,7 @@ HrvthZslt\PhpCountryList\Models\Country {#906
 
 ### Country instance
 
-Check country continent, returns true or falase
+Check country continent, returns true or false
 
 ```php
 /** @var HrvthZslt\PhpCountryList\Models\Country $country */
