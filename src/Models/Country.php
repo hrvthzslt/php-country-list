@@ -61,7 +61,7 @@ class Country
     /**
      * @return array
      */
-    public function toArray() : array
+    public function toArray()
     {
         $vars = call_user_func('get_object_vars', $this);
         $vars['continent'] = $vars['continent']->toArray();
