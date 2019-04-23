@@ -1,0 +1,21 @@
+{
+    "name": "hrvthzslt/php-country-list",
+    "description": "Listing country alpha2, alpha3, numeric and isd codes",
+    "authors": [
+        {
+            "name": "Horváth Zsolt",
+            "email": "hrvth.7slt@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "HrvthZslt\\PhpCountryList\\": "src/"
+        }
+    },
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {
+        "php" : "^5.5 || ^7.0"
+    }
+}
